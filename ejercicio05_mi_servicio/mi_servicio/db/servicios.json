@@ -1,0 +1,15 @@
+
+ [
+    {
+      "id": 1,
+      "id_cliente": 2,
+      "id_conductor": 1,
+      "servicio": "Viaje al aeropuerto",
+      "direccion_salida": "Avenida 456, Ciudad",
+      "direccion_llegada": "Aeropuerto Internacional",
+      "monto": 35.50,
+      "disponible": true
+    }
+   
+  ]
+  

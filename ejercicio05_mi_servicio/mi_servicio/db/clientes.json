@@ -1,0 +1,17 @@
+ [
+    {
+      "id": 2,
+      "nombre": "María",
+      "apellido": "Gómez",
+      "email": "maria@example.com",
+      "direccion": "Avenida 456, Ciudad",
+      "telefono": "987-654-3210",
+      "servicios": [],
+      "activo": true,
+      "tipo_usuario": "cliente",
+      "password": "contraseña456",
+      "forma_de_pago": ["efectivo","debito","credito"]
+    }
+  
+  ]
+  

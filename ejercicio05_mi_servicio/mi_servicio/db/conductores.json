@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "nombre": "Juan",
+    "apellido": "Pérez",
+    "email": "juan@example.com",
+    "direccion": "Calle 123, Ciudad",
+    "telefono": "123-456-7890",
+    "servicios": [],
+    "activo": true,
+    "tipo_usuario": "cliente",
+    "password": "contraseña123",
+    "forma_de_pago": ["efectivo","debito","credito"],
+    "cbu": "1234567890123456789012",
+    "auto": {
+      "marca": "Toyota",
+      "modelo": "Corolla",
+      "patente": "ABC123",
+      "año": 2022,
+      "color": "Rojo",
+      "cant_puertas": 4
+    }
+  }
+]
